@@ -1,0 +1,10 @@
+framework module DDInnovaAdvertise {
+  umbrella header "DDInnovaAdvertise.h"
+
+  export *
+  module * { export * }
+}
+
+module DDInnovaAdvertise.Swift {
+    header "DDInnovaAdvertise-Swift.h"
+}
