@@ -8,7 +8,6 @@ Pod::Spec.new do |s|
     s.platform          = :ios
     s.source            = { :git => "https://github.com/HarikanKangbid/DDInnovaAdvertise.git", :tag => "1.0.0"}
     s.ios.deployment_target = '9.3'
-    s.ios.vendored_frameworks = 'DDInnovaAdvertise.framework'
     s.requires_arc      = true
     s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 end 
