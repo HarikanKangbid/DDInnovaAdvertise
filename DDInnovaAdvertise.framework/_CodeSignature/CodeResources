@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DDInnovaAdvertise-Swift.h</key>
 		<data>
-		QuNa2Aou9aUgzMEXdGrdHfeYzCg=
+		GdDxyfm+aLWFmRCCNLBrIJzvbrs=
 		</data>
 		<key>Headers/DDInnovaAdvertise.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h9EKVQo1z9ESFt3Qig6puVtgXew=
+		dKDA3bPHFk2z55SPJI72hz23BU4=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftdoc</key>
 		<data>
-		1Nxhsmp874+sB3GkKx4AE4VEFNQ=
+		2bNLP0AsJKAQM1GmaRkHAMutTOg=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftmodule</key>
 		<data>
-		K6gklMLgU41xCIi1PY9tB5vpCy4=
+		oVWfvCaz/xsQ2EqfgkcvtCFrS6s=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		7r5z2OzM4TWM5AcKEXEGT2FgkZ8=
+		+jtAlV2GgPP6GQe6YcwY8Q5+3Zw=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		47H70k6aUr7n3CwxniAzfsMctac=
+		8GevCZeI8K+K10SwBKMk/rR9j/8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		w3/+oZoPntft7YW8r+Tpf8umV3I=
+		sSkL5gTZJAMlWpejXONNYcxnt3w=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QuNa2Aou9aUgzMEXdGrdHfeYzCg=
+			GdDxyfm+aLWFmRCCNLBrIJzvbrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			7/OQMn3POxRB8OxXSzXTN6/R/DCL2wdqsG4UIXK0an8=
+			eQXwg9ZkjB8+PqYR8fpdK5enhVg4iZCeJ+k3bSbgeCo=
 			</data>
 		</dict>
 		<key>Headers/DDInnovaAdvertise.h</key>
@@ -65,55 +65,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1Nxhsmp874+sB3GkKx4AE4VEFNQ=
+			2bNLP0AsJKAQM1GmaRkHAMutTOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hvWH3xyFUyR5aNlmBqQtI1jVkagFOYleFkXglJV+GY4=
+			XqunywlJbojZlqJzuPOdjKWlNrtoXGvhkcMSr3M5djM=
 			</data>
 		</dict>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6gklMLgU41xCIi1PY9tB5vpCy4=
+			oVWfvCaz/xsQ2EqfgkcvtCFrS6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			eoLtwVcTfnjkBtKPA1nG+xEHGfJJXmaS/c40zeKwVRc=
+			5itzwMaIIp4i6oplDH8SETdgT5abE4Cdw+F7vcC1kD8=
 			</data>
 		</dict>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7r5z2OzM4TWM5AcKEXEGT2FgkZ8=
+			+jtAlV2GgPP6GQe6YcwY8Q5+3Zw=
 			</data>
 			<key>hash2</key>
 			<data>
-			S3ndZpQtqrWEf0NSDZZmHUtJJHv7xnykjkDnRjUWVmA=
+			QwBItdKkCAEg+pDhKXIqHKe+gYI/k7/PyogwQYL9wDQ=
 			</data>
 		</dict>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			47H70k6aUr7n3CwxniAzfsMctac=
+			8GevCZeI8K+K10SwBKMk/rR9j/8=
 			</data>
 			<key>hash2</key>
 			<data>
-			OJtxwN/LpcRAMzEO6FuovJMLK/7Iqr+sckGKYrDDFiY=
+			LOP0GzPUPviO3MYk2J4kxlAGj1QHiuc4u6JZ3SGRwkI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w3/+oZoPntft7YW8r+Tpf8umV3I=
+			sSkL5gTZJAMlWpejXONNYcxnt3w=
 			</data>
 			<key>hash2</key>
 			<data>
-			tqCI1UjLufb5QXpSS3eMmuKggb20wXtHhlvTLcRo17c=
+			X1q/jMNTaUeEbrwgzdQ5xfzu4Qk75v+c11TH1Wapkn8=
 			</data>
 		</dict>
 	</dict>

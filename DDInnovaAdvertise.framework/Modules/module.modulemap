@@ -7,4 +7,5 @@ framework module DDInnovaAdvertise {
 
 module DDInnovaAdvertise.Swift {
     header "DDInnovaAdvertise-Swift.h"
+    requires objc
 }
