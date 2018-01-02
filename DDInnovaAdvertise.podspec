@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name              = 'DDInnovaAdvertise'
     s.version           = '1.3'
     s.summary           = 'Framework popup advertise from DDInnova' 
-    s.homepage          = 'https://www.ddinnova.com'
+    s.homepage          = 'https://ddinnova.com'
     s.author            = { "Harikan Kangbid" => "MIN.DO@hotmail.com" }
     s.license           = { :type => "MIT", :file => "LICENSE" }
     s.platform          = :ios
