@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B9kmUGWexY+E2ZKTjZO2mSURdu8=
+		Dx8NwjlqgSrI5gxQGjf6LfhlGeo=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftmodule</key>
 		<data>
-		GtRheQV7lSL/sYj7j8eB0UDQMGI=
+		hDlNRG8D7lkWOhJgorrfA/ftH6s=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		yHjBlSGeK7GDWpR8E1wLjU9URyE=
+		Yo1ft4jEf+mbvBKCCxAoH8Crl8o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GtRheQV7lSL/sYj7j8eB0UDQMGI=
+			hDlNRG8D7lkWOhJgorrfA/ftH6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			iHt56l/3N75m92bK1Np15aHhYpZK4hXX86yN6M1mVxM=
+			03iN4pupZKP1gszD3BBAlydFAoZrS2oCuLFr5Ra2K6E=
 			</data>
 		</dict>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yHjBlSGeK7GDWpR8E1wLjU9URyE=
+			Yo1ft4jEf+mbvBKCCxAoH8Crl8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			rOVVysM52LfkwV1eAWKIwNewmSwPpzjUx9FAEvi0nGY=
+			SB+XeM9y8pYuN2boXfNM6+3EQw8pjWLvsAKNfA0shmk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
