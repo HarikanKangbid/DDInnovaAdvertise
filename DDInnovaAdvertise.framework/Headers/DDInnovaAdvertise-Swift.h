@@ -203,6 +203,7 @@ SWIFT_CLASS("_TtC17DDInnovaAdvertise13AdBannerVideo")
 - (void)setUserTokenWithUser_token:(NSString * _Nonnull)user_token;
 - (void)setRotateAdWithRotate:(BOOL)rotate;
 - (void)setTrackEventWithEvent:(NSString * _Nonnull)event;
+- (void)setSkipButtonTitleWithTitle:(NSString * _Nonnull)title;
 - (void)setAlertMessageWithTitle_alert:(NSString * _Nonnull)title_alert message_alert_location:(NSString * _Nonnull)message_alert_location buttonOK_alert:(NSString * _Nonnull)buttonOK_alert buttonSetting_alert:(NSString * _Nonnull)buttonSetting_alert;
 - (void)setUpVideoWithParentvc:(UIViewController * _Nonnull)parentvc;
 - (void)observeValueForKeyPath:(NSString * _Nullable)keyPath ofObject:(id _Nullable)object change:(NSDictionary<NSKeyValueChangeKey, id> * _Nullable)change context:(void * _Nullable)context;
@@ -232,6 +233,7 @@ SWIFT_CLASS("_TtC17DDInnovaAdvertise7AdVideo")
 - (void)setUserTokenWithUser_token:(NSString * _Nonnull)user_token;
 - (void)setRotateAdWithRotate:(BOOL)rotate;
 - (void)setTrackEventWithEvent:(NSString * _Nonnull)event;
+- (void)setSkipButtonTitleWithTitle:(NSString * _Nonnull)title;
 - (void)setAlertMessageWithTitle_alert:(NSString * _Nonnull)title_alert message_alert:(NSString * _Nonnull)message_alert buttonOK_alert:(NSString * _Nonnull)buttonOK_alert buttonSetting_alert:(NSString * _Nonnull)buttonSetting_alert;
 - (void)setUpVideoWithParentvc:(UIViewController * _Nonnull)parentvc;
 - (void)observeValueForKeyPath:(NSString * _Nullable)keyPath ofObject:(id _Nullable)object change:(NSDictionary<NSKeyValueChangeKey, id> * _Nullable)change context:(void * _Nullable)context;

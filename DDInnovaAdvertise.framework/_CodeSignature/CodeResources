@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DDInnovaAdvertise-Swift.h</key>
 		<data>
-		vPXGtK62kMXh3u9Dgdm/73H0Gg8=
+		7c7JgP5XgVFlB79cM89wQ7WEKt8=
 		</data>
 		<key>Headers/DDInnovaAdvertise.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M3SkEyGfcDOIDpU/UzqbBB2SrJw=
+		l5spcRx+9RMS13PpnTvl+37kVgI=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm.swiftmodule</key>
 		<data>
-		e0i5c3BaHGWux3pr8AQeglBn2NI=
+		SSuxUFTl277rC4RT135YAqhD+iA=
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		AL7vdhq369eBlw3eDXcJ1DpaBWo=
+		8rbi8I5yqFw4vfsJSp+Vp211SfE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vPXGtK62kMXh3u9Dgdm/73H0Gg8=
+			7c7JgP5XgVFlB79cM89wQ7WEKt8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RD4qiJH2zff6lnYGKjz8HpsuhoyAYQR2OFT5B3k4dFw=
+			OIF5A9RYG5wDt2dMI/ud8piVJGQL4lcEMs2rNcE/8DQ=
 			</data>
 		</dict>
 		<key>Headers/DDInnovaAdvertise.h</key>
@@ -76,11 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e0i5c3BaHGWux3pr8AQeglBn2NI=
+			SSuxUFTl277rC4RT135YAqhD+iA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XqmLws9sqsKHL+6n6sifO+5DkFz95kWSXlRaoOz+X9g=
+			fO0hbFJQHqLmuQtEoFQX7AeYWeQ/9GHNdc485Q5Xc/U=
 			</data>
 		</dict>
 		<key>Modules/DDInnovaAdvertise.swiftmodule/arm64.swiftdoc</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AL7vdhq369eBlw3eDXcJ1DpaBWo=
+			8rbi8I5yqFw4vfsJSp+Vp211SfE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Psx5E7Zpva6cWVu24hPZudWssCupPPBKqyY0WsynN8w=
+			w94SoxhjhIZ0z7fwSwcStVN+3khaCwGq15jYyNTeEPg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
